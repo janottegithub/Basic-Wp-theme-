@@ -42,7 +42,7 @@
 	        );*/
           ?> 
           <a href="<?php echo site_url();?>" class="blog-nav-item active">Home</a>
-          <a href="<?php echo site_url('/?page_id=11')?>" class="blog-nav-item active">New features</a>
+          <a href="<?php echo site_url('/?page_id=42')?>" class="blog-nav-item active">New features</a>
           <a href="<?php echo site_url('/?page_id=13')?>" class="blog-nav-item active">Press</a>
           <a href="<?php echo site_url('/?page_id=15')?>" class="blog-nav-item active">New Hires</a>
           <a href="<?php echo site_url('/?page_id=9')?>" class="blog-nav-item active">About</a>
